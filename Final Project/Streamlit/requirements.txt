@@ -1,0 +1,10 @@
+streamlit
+streamlit-option-menu
+joblib
+numpy
+huggingface-hub
+torch
+torchvision
+Pillow
+scikit-learn
+pandas
